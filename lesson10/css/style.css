@@ -1,0 +1,19 @@
+.shapka {
+	margin: 0;
+	padding: 0;
+	width: 100vw;
+	position: fixed;
+	background-color: black;
+}
+a {
+	color: white;
+	display: inline-block;
+	height: 50px;
+	width: 17vw;
+	margin-left: 2vw;
+	font-size: 2vw;
+	margin-top: 20px;
+}
+p {
+	padding: 10vw;
+}
